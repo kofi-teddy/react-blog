@@ -1,0 +1,46 @@
+{
+  "blogs": [
+    {
+      "title": "My second Blog",
+      "body": "lorem ipsum dolor sit amet",
+      "author": "benyiwaa",
+      "id": 2
+    },
+    {
+      "title": "My third Blog",
+      "body": "lorem ipsum dolor sit amet",
+      "author": "baddoo",
+      "id": 3
+    },
+    {
+      "title": "tee",
+      "body": "hhh",
+      "author": "maxine",
+      "id": 4
+    },
+    {
+      "title": "harry portter",
+      "body": "helelelelelela",
+      "author": "ama",
+      "id": 5
+    },
+    {
+      "title": "harry portter",
+      "body": "helelelelelela",
+      "author": "ama",
+      "id": 6
+    },
+    {
+      "title": "love and other drugs",
+      "body": "lreom ckdnklcdnas dsancd",
+      "author": "ama",
+      "id": 8
+    },
+    {
+      "title": "time flies",
+      "body": "bad bad bad",
+      "author": "ama",
+      "id": 9
+    }
+  ]
+}
